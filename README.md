@@ -5,7 +5,7 @@ I am Developer Productivity focussed software engineer currently at [G](http://g
 - 🔭 I’m currently working on remote developer experience with Intellij at Google and [the OpenSource bazel plugin for IntelliJ](https://github.com/bazelbuild/intellij)
 - 🌱 I’m currently learning UX/UI design 🧑‍🎨
 - 💬 Ask me about IntelliJ and Developer Productivity
-- 🦉 checkout my blog [on Medium](https://alexey-gy.medium.com/)
+- 🦉 Checkout my blog [on Medium](https://alexey-gy.medium.com/)
 - 😄 Pronouns: he/him/his
 
 <!--
