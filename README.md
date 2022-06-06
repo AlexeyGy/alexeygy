@@ -5,8 +5,8 @@ I am Developer Productivity focussed software engineer currently at [G](http://g
 - 🔭 I’m currently working on remote developer experience with Intellij at Google and [the OpenSource bazel plugin for IntelliJ](https://github.com/bazelbuild/intellij)
 - 🌱 I’m currently learning UX/UI design 🧑‍🎨
 - 💬 Ask me about IntelliJ and Developer Productivity
-- 🦉 Checkout my blog [on Medium](https://alexey-gy.medium.com/)
-- Checkout my wife's and my YouTube channel (in Russian) [vivatexpat@](https://www.youtube.com/channel/UCrISAsBk7PfOqSepsHjA-bw).
+- 🦉 Check out my blog [on Medium](https://alexey-gy.medium.com/)
+- 🎥 Check out my wife's and my YouTube channel (in Russian) [vivatexpat@](https://www.youtube.com/channel/UCrISAsBk7PfOqSepsHjA-bw).
 - 😄 Pronouns: he/him/his
 
 <!--
