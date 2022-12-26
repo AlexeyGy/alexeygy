@@ -5,8 +5,9 @@ I am Developer Productivity focussed software engineer currently at [G](http://g
 - 🔭 I’m currently working in the Google Assistant org
 - 🌱 I’m currently learning UX/UI design 🧑‍🎨
 - 🦉 Check out my blog [on Medium](https://alexey-gy.medium.com/)
-- 🎥 Check out my wife's and my YouTube channel (in Russian) [vivatexpat@](https://www.youtube.com/channel/UCrISAsBk7PfOqSepsHjA-bw).
-- 😄 Pronouns: he/him/his
+- 📫 Find me [on LinkedIn](https://www.linkedin.com/in/alexeygy)
+- 🎥 Check out my wife's and my YouTube channel (in Russian) [vivatexpat@](https://www.youtube.com/channel/UCrISAsBk7PfOqSepsHjA-bw)
+- 😄 Pronouns: he/him/his.
 
 <!--
 **AlexeyGy/alexeygy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
