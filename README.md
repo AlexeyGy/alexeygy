@@ -1,6 +1,6 @@
 ### Hi there fellow traveller 👋
 
-I am Developer Productivity focussed software engineer currently at [G](http://google.com/).
+I am a software engineer currently at [G](http://google.com/).
 
 - 🔭 I’m currently working in the Google Assistant org
 - 🌱 I’m currently learning UX/UI design 🧑‍🎨
